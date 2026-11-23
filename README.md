@@ -1,4 +1,4 @@
-# Hola, soy Yosue Timoteo
+# Hola, soy Yosue Timoteo 👋
 
 **Estudiante de Desarrollo de Software a nivel técnico (SENATI)**
 
